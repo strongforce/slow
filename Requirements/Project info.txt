@@ -1,0 +1,8 @@
+Goal:
+-PoC technical application to tryout technical ideas
+
+Requirements:
+-minimal front-end with React (one input, one select box)
+-back-end with Go, that interacts with the front-end (receive data from input, send data to fill in select box)
+
+
